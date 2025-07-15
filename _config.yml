@@ -41,7 +41,7 @@ social:
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/kyriakos77kolovos # change to your GitHub homepage
     # Uncomment below to add more social links
-    https://www.facebook.com/kyriakos.kolovos.5
+    - https://www.facebook.com/kyriakos.kolovos.5
     - https://www.linkedin.com/in/kyriakos77kolovos
 
 # Site Verification Settings
