@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Kyriakos Kolovos # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: CS Student & CTF Player # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://kyriakos77kolovos.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: kyriakos77kolovos # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: kr7pt0
+  email: kyriakos77kolovos@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/kyriakos77kolovos # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    https://www.facebook.com/kyriakos.kolovos.5
+    - https://www.linkedin.com/in/kyriakos77kolovos
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQG8VFuJOU_6TA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690258018615?e=1758153600&v=beta&t=hSSBVGIdLvm05FzJ63SLpxOfMFreJbEe93gbtyzQg80
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
