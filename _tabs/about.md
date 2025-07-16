@@ -13,11 +13,19 @@ On this blog, I’ll share my journey through CTF competitions, deep dives into 
 When I’m not exploring the latest exploits, you can find me playing the bouzouki or enjoying music. 👨‍💻🔐🤖
 
 
+
+
+
+
 Professional Experience:
 
 -IT Administrator, Private Hospital (Cyprus)
 
 -Junior Penetration Tester, Audax Cybersecurity
+
+
+
+
 
 
 Notable Achievements:
@@ -35,9 +43,17 @@ Notable Achievements:
 -7th place, International Robotex17 (Estonia)
 
 
+
+
+
+
 Certifications:
 
 -PJPT (Practical Junior Penetration Tester), TCM Security
+
+
+
+
 
 
 Feel free to explore my posts and reach out if you share my enthusiasm for cybersecurity, vulnerabilities, or music. Let’s learn and hack (ethically) together!🥷
