@@ -17,7 +17,7 @@ When I’m not exploring the latest exploits, you can find me playing the bouzou
 
 
 
-Professional Experience:
+## Professional Experience:
 
 -IT Administrator, Private Hospital (Cyprus)
 
@@ -28,7 +28,7 @@ Professional Experience:
 
 
 
-Notable Achievements:
+## Notable Achievements:
 
 -8th place, Cyprus Cybersecurity Competition 2025
 
@@ -47,7 +47,7 @@ Notable Achievements:
 
 
 
-Certifications:
+## Certifications:
 
 -PJPT (Practical Junior Penetration Tester), TCM Security
 
