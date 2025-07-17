@@ -8,7 +8,7 @@ tags: [misc, ctf, python]     # TAG names should always be lowercase
 ![img-description](/assets/img/chall.png)
 
 
-_The Challenge_
+_"That's what she said"_
 
 For CCSC’s CTF, I encountered a fun “misc” challenge involving a MIDI file. The description teased:
 `“This pretty midi file looks like it sings something. The acoustic grand piano is so soothing!”`
