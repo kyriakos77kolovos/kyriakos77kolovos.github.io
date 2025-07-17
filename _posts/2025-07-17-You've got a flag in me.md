@@ -4,7 +4,7 @@ date: 2025-07-17 12:00:00 +0300
 categories: [CTFs, CCSC2025]
 tags: [misc, ctf, python]     # TAG names should always be lowercase
 ---
-# You've got a flag in me
+
 ![img-description](/assets/img/chall.png)
 
 
@@ -37,7 +37,9 @@ I wrote a script to extract all notes from channel 2 where the velocity was exac
 
 
 At this point, my approach seemed logical, but I still had the mysterious KEY array and wasn’t sure how it fit in. After about 15 minutes of staring at my ceiling, inspiration struck: the first four numbers in the key `7, 58, 391, 58` lined up interestingly with the expected flag prefix `ECSC`. In particular, the fact that both the third and fourth flag letters are “C” and the key repeats “58” caught my attention—maybe the numbers were indexes?
-I scrolled through my list of extracted notes with velocity 0 and checked the note at index 58. When I converted it to ASCII, the letter “C” appeared—bingo! From there, I wrote a simple Python script to automate extracting all the key-indexed notes and decoding the flag.
+
+
+I scrolled through my list of extracted notes with velocity 0 and checked the note at index 58. When I converted it to ASCII, the letter “C” appeared—bingo! From there, I wrote a simple Python script to automate extracting all the key-indexed notes and decoding the flag.🎉🎉🚩
 
 
 ```python
