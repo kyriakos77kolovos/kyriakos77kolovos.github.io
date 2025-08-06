@@ -6,7 +6,7 @@ order: 4
 
 # ~#whoami
 
-![#~whoami]([https://scontent.fpfo1-1.fna.fbcdn.net/v/t39.30808-1/280827907_1014102169472030_3217345246924434988_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=eNcFDYvJze0Q7kNvwFaQex4&_nc_oc=AdlgvotQrEMgsczg0N5XX_yZBvRRh0IdKc5modGOa4NfrPlon7nB8kzOyZWXA8mTrAiHMRSoWwGC7J3i8oZftJzL&_nc_zt=24&_nc_ht=scontent.fpfo1-1.fna&_nc_gid=UWJc8I_hwlEL5ct8wLlq2Q&oh=00_AfRCYjSe5uRyzQX7rJC5_L8LNBHkaJEy_4L3rJxTp6w-4g&oe=687DB75D](https://scontent.fnic4-1.fna.fbcdn.net/v/t39.30808-6/280827907_1014102169472030_3217345246924434988_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Kdpzt-H5e4UQ7kNvwG_abPr&_nc_oc=AdmXBIiq5TUdQrs2MnUyYC8YdRhR_ZLb_JHaciePzrko_b5CBpjIN-GmnHxZ_J7iJCo&_nc_zt=23&_nc_ht=scontent.fnic4-1.fna&_nc_gid=ez44eQ8zX3pgAFz2PptPkw&oh=00_AfX2dg8-FuudOUTCqA6cR1-2feB6e8-NaKQBDBWuM9-EAg&oe=68989D9F))
+![#~whoami](/assets/img/kr7pt0.jpg)
 
 Hello! I’m Kyriakos Kolovos or you can call me `kr7pt0`, a Computer Science student at the University of Piraeus with a passion for cybersecurity. Originally from Cyprus, I specialize in `Red Team operations` and `penetration testing`, and I love tackling Capture The Flag (CTF) challenges and uncovering new vulnerabilities in my free time.
 On this blog, I’ll share my journey through CTF competitions, deep dives into vulnerability research, and practical insights from my hands-on experience in the field.
